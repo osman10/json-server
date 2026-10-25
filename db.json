@@ -1,9 +1,64 @@
 {
-	"users": [
-		{ "id": 1, "name": "Alex Johnson", "email": "alex.johnson@example.com" },
-		{ "id": 2, "name": "Maya Patel", "email": "maya.patel@example.com" },
-		{ "id": 3, "name": "Jordan Lee", "email": "jordan.lee@example.com" },
-		{ "id": 4, "name": "Sofia Garcia", "email": "sofia.garcia@example.com" },
-		{ "id": 5, "name": "Noah Kim", "email": "noah.kim@example.com" }
-	]
+  "transactions": [
+  {
+    "id": 1,
+    "name": "Monthly Salary",
+    "type": "income",
+    "amount": 4500.00
+  },
+  {
+    "id": 2,
+    "name": "Grocery Shopping",
+    "type": "expense",
+    "amount": 125.50
+  },
+  {
+    "id": 3,
+    "name": "Freelance Design Work",
+    "type": "income",
+    "amount": 850.00
+  },
+  {
+    "id": 4,
+    "name": "Electric Bill",
+    "type": "expense",
+    "amount": 95.20
+  },
+  {
+    "id": 5,
+    "name": "Gym Membership",
+    "type": "expense",
+    "amount": 49.99
+  },
+  {
+    "id": 6,
+    "name": "Stock Dividend",
+    "type": "income",
+    "amount": 120.75
+  },
+  {
+    "id": 7,
+    "name": "Dining Out",
+    "type": "expense",
+    "amount": 68.40
+  },
+  {
+    "id": 8,
+    "name": "Internet Subscription",
+    "type": "expense",
+    "amount": 60.00
+  },
+  {
+    "id": 9,
+    "name": "Consulting Fee",
+    "type": "income",
+    "amount": 300.00
+  },
+  {
+    "id": 10,
+    "name": "Gasoline",
+    "type": "expense",
+    "amount": 45.10
+  }
+]
 }
